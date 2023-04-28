@@ -2,7 +2,7 @@ import { info, play, logo1, logo2, logo3, logo4 } from '../Images';
 const Info = () => {
   return (
     <>
-      <section id="info" className="container-fluid">
+      <section className="container-fluid">
         <div className="container py-5 justify-content-center">
           <div className="row flex-wrap-reverse align-items-center">
             <div className="col-lg-6 info mt-5">
